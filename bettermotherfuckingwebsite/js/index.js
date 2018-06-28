@@ -1,5 +1,5 @@
 window.onload = function(){
-	/*var mypop = function(){
+	var mypop = function(){
 			var width = 420;
 			var height = 100;
 			var left = (innerWidth-width)/2;
@@ -8,7 +8,8 @@ window.onload = function(){
 			myWindow.document.write('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
 
 	}
-	setInterval(mypop,10000);	*/
+	setInterval(mypop,10000);
+
 	var modePsy = function(){
 		document.body.style.background = 'magenta';
 		var tabP = document.getElementsByTagName('p');
